@@ -16,5 +16,5 @@ A simple console-based TicTacToe game in Java. This project is created to implem
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/TicTacToe-Game.git
+   git clone https://github.com/DwikyAntaguna/TicTacToe-Game.git
    cd TicTacToe-Game
