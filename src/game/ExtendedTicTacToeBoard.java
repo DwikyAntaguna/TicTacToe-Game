@@ -4,6 +4,6 @@ public class ExtendedTicTacToeBoard extends TicTacToeBoard {
 
     public ExtendedTicTacToeBoard(int size) {
         super(size);
-    }
+    }___
 
 }
